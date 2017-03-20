@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gehaltszaehler</string>
+    <string name="start_count">Start Zähler</string>
+    <string name="button_start_count">Start</string>
+    <string name="cancel_button">beenden</string>
+    <string name="stop_button">Pause</string>
+    <string name="euro_null">0.00€</string>
+    <string name="euro">€</string>
+    <string name="current_result_01">Bisher verdient:</string>
+    <string name="current_result_02">verdient.</string>
+    <string name="money_result">Bisher verdient:</string>
+    <string name="fill_money_input">Bitte Gehalt/h eingeben</string>
+</resources>
